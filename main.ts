@@ -1005,7 +1005,7 @@ let Pizza: Sprite = null
 let Me: Sprite = null
 let start = 0
 start = 0
-scene.setBackgroundColor(15)
+scene.setBackgroundColor(8)
 Me = sprites.create(img`
     . . . . . . f f f f . . . . . . 
     . . . . . f f 2 2 f f . . . . . 
